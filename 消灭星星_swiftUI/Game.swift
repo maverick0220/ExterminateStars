@@ -2,7 +2,7 @@
 //  Map.swift
 //  消灭星星_swiftUI
 //
-//  Created by 周河晓 on 2022/11/16.
+//  Created by Maverick on 2022/11/16.
 //
 
 import Foundation

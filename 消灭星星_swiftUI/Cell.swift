@@ -2,8 +2,8 @@
 //  Cell.swift
 //  消灭星星
 //
-//  Created by 周河晓 on 2019/3/20.
-//  Copyright © 2019 周河晓. All rights reserved.
+//  Created by Maverick on 2019/3/20.
+//  Copyright © 2019 Maverick. All rights reserved.
 //
 
 import Foundation
